@@ -10,8 +10,10 @@ burned here
 This is the Source Code for the Latest Version of 
 RussellNX/KittyNXBuilder that I know exists: v1.6.3a
 
-Build will be in Releases in due time
+Latest Build will be in Releases in due time
 Wiki might be recreated as well
+
+Older Versions of the Source Code/Builds are located here: https://github.com/garrlker/RussellNX/tags
 ```
 
 If you have no idea how to use `switch_` GMS 2 functions, feel free to visit the [KittyNXBuilder Wiki.](https://github.com/burnedpopcorn/RussellNX-REUPLOAD/wiki) (no NDA or devkit required)
