@@ -10,7 +10,7 @@ burned here
 This is the Source Code for the Latest Version of 
 RussellNX/KittyNXBuilder that I know exists: v1.6.3a
 
-Latest Build will be in Releases in due time
+Latest Build is available in Releases
 Wiki might be recreated as well
 
 Older Versions of the Source Code/Builds are located here: https://github.com/garrlker/RussellNX/tags
