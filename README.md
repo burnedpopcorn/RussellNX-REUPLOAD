@@ -7,7 +7,9 @@ A tool to build Nintendo Switch homebrew games using GameMaker Studio 2's runtim
 ```
 burned here
 
-This is the Source Code for the Latest Version of RussellNX/KittyNXBuilder that I know exists: v1.6.3a
+This is the Source Code for the Latest Version of 
+RussellNX/KittyNXBuilder that I know exists: v1.6.3a
+
 Build will be in Releases in due time
 Wiki might be recreated as well
 ```
