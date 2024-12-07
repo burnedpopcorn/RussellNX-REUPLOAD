@@ -11,7 +11,7 @@ This is the Source Code for the Latest Version of
 RussellNX/KittyNXBuilder that I know exists: v1.6.3a
 
 Latest Build is available in Releases
-Wiki might be recreated as well
+Wiki is currently not available
 
 Older Versions of the Source Code/Builds are located here: https://github.com/garrlker/RussellNX/tags
 ```
